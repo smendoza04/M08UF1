@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         echo "Hola tu";
         echo"This is hard omg";
+        echo"This is hard af";
         ?>
     </body>
 </html>
