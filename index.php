@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "Hola tu";
-        echo"This is hard";
+        echo"This is hard omg";
         ?>
     </body>
 </html>
